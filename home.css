@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+
+.header-nav{
+    background-color: rgb(19, 160, 26);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(19, 160, 26);
+    text-align: center;
+}
